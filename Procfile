@@ -1,1 +1,1 @@
-web: gunicorn BibleAppIP:app
+web: gunicorn server:app
